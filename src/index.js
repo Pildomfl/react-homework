@@ -15,10 +15,10 @@ root.render(
         <p>
           <SearchingCity />
         </p>
-        <h2></h2>
+
         <footer className="Footer">
           This project was coded by Pilar Domínguez and is{" "}
-          <a href="">open-sourced</a>
+          <a href="https://github.com/Pildomfl/react-homework">open-sourced</a>
         </footer>
       </div>
     </div>
